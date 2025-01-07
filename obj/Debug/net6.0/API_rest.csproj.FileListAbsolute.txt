@@ -1,0 +1,5 @@
+/home/pop_server/Documents/API_rest/API_rest/obj/Debug/net6.0/API_rest.csproj.AssemblyReference.cache
+/home/pop_server/Documents/API_rest/API_rest/obj/Debug/net6.0/API_rest.GeneratedMSBuildEditorConfig.editorconfig
+/home/pop_server/Documents/API_rest/API_rest/obj/Debug/net6.0/API_rest.AssemblyInfoInputs.cache
+/home/pop_server/Documents/API_rest/API_rest/obj/Debug/net6.0/API_rest.AssemblyInfo.cs
+/home/pop_server/Documents/API_rest/API_rest/obj/Debug/net6.0/API_rest.csproj.CoreCompileInputs.cache
